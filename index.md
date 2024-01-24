@@ -12,3 +12,20 @@ Before moving to Canada, I worked as a software Developer at [Infosys Ltd](https
 
 
 Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sulaimangm/) or [email](mailto:sulaimangm@gmail.com). 
+
+[Resume](../Resume_Sulaiman.pdf)  |  [Projects](../projects/)  |  [LinkedIn](https://www.linkedin.com/in/sulaimangm/)
+<br/><br/>
+<h2 id="️-news"> 📃 News </h2>
+
+- [November 2023] Graduated from McMaster University.
+- [May 2022] Joined Ericsson as a Systems Developer.
+- [September 2021] Started my Master's program at McMaster University.
+- [August 2019] Joined Infosys as a Systems Engineer.
+- [January 2019] Joined Infosys as a Systems Engineer Intern.
+
+<br/><br/>
+<h2 id="-education"> 👩‍🎓 Education </h2>
+
+<p><strong>Master of Engineering in Systems and Technology</strong> <br> McMaster Uiversity | 2021 - 2023 | GPA: 4.0 </p>
+
+<p><strong>Bachelor of Engineering in Computer Science</strong> <br> Nitte Meenakshi Institute of Technology | 2015 - 2019 | GPA: 8.7 <br> </p>
