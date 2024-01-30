@@ -21,8 +21,8 @@ author: Sulaiman Ghouse Mohiuddin
 
 navbar-links:
   More About Me: "aboutme"
-  Projects:
-  Photos: "https://deanattali.com"
+  Projects: "projects"
+  Photos: "photos"
 
 ################
 # --- Logo --- #
