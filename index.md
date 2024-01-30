@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sulaiman
+title: Sulaiman Ghouse Mohiuddin
 subtitle: Software Development | Data Science
 ---
 
