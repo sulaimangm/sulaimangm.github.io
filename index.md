@@ -13,7 +13,7 @@ Before moving to Canada, I worked as a software Developer at [Infosys Ltd](https
 
 Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sulaimangm/) or [Email](mailto:sulaimangm@gmail.com). 
 
-[Resume](../Resume_Sulaiman.pdf)  |  [Projects](../projects/)  |  [LinkedIn](https://www.linkedin.com/in/sulaimangm/)
+[Resume](../Resume_Sulaiman.pdf)  |  [Projects](../projects/)  |  [GitHub](https://github.com/sulaimangm)
 <br/><br/>
 <h2 id="️-news"> 📃 News </h2>
 
