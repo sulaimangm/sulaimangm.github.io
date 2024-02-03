@@ -12,10 +12,10 @@ tags: [CNN, NLP, Maps API, Deep Learning]
 | Classes | 101      | 241        |
 | Total   | 101000   | 191811     |
 
-|                                    Food-101                                        |                                     CNFood-241                                        |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ![Food101 Accuracy](/assets/img/project_images/Diet_Analyzer_Food101_Accuracy.jpg) | [CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Accuracy.jpg) |
-| ![Food101 Epochs](/assets/img/project_images/Diet_Analyzer_Food101_Epochs.jpg)     | [CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Epochs.jpg)   |
+|                                    Food-101                                        |                                     CNFood-241                                         |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| ![Food101 Accuracy](/assets/img/project_images/Diet_Analyzer_Food101_Accuracy.jpg) | ![CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Accuracy.jpg) |
+| ![Food101 Epochs](/assets/img/project_images/Diet_Analyzer_Food101_Epochs.jpg)     | ![CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Epochs.jpg)   |
 
 <b>Restaurant Identification</b> - Extracted GPS coordinates from over 10,000 user-submitted food photos, successfully identifying restaurant locations in 90% of cases for precise meal-name matching.
 
