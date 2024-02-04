@@ -11,4 +11,10 @@ Crafted an intuitive front end using Razor Pages, HTML, CSS, and Javascript, enr
 
 Executed a dynamic dashboard, offering real-time insights with figures on total expenses, income, and balance for the past week. Included a donut chart illustrating expenditure distribution and a line chart revealing spending and income patterns.
 
+![Transactions](/assets/img/project_images/Expense_Tracker_Thumbnail.png)
+
 Established transparency through a transaction table showcasing the last 5 transactions, showcasing self-reliance and proficiency in full-stack development to create a comprehensive financial tracking solution.
+
+![Transactions](/assets/img/project_images/Expense_Tracker_Transactions_Home.png)
+
+![Categories](/assets/img/project_images/Expense_Tracker_Categories_Home.png)
