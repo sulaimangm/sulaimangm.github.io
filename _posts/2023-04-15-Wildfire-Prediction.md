@@ -23,18 +23,17 @@ The model is trained for 30 epochs.
 
 ![Own Implementation](/assets/img/project_images/Wildfire_Prediction_Implementation.png)
 
-|         | Food-101 | CNFood-241 |
-| ------- | -------- | ---------- |
-| Classes | 101      | 241        |
-| Total   | 101000   | 191811     |
+<h4>Transfer Learning</h4>
 
-| Food-101                                                                           | CNFood-241                                                                             |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Food101 Accuracy](/assets/img/project_images/Diet_Analyzer_Food101_Accuracy.jpg) | ![CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Accuracy.jpg) |
-| ![Food101 Epochs](/assets/img/project_images/Diet_Analyzer_Food101_Epochs.jpg)     | ![CNFood241 Accuracy](/assets/img/project_images/Diet_Analyzer_CNFood241_Epochs.jpg)   |
+Pretrained models are frequently used as the foundation for transfer learning, in which the concepts and variables discovered during initial training can be adjusted or applied to a new task. This method, especially when the size of the new dataset is constrained, can greatly minimise the quantity of data and time needed to train a new model and can result in enhanced performance.
+For our data, we used the 4 pretrained models shown below.
 
-<b>Restaurant Identification</b> - Extracted GPS coordinates from over 10,000 user-submitted food photos, successfully identifying restaurant locations in 90% of cases for precise meal-name matching.
+![Transfer Learning](/assets/img/project_images/Wildfire_Prediction_TransferLearning.png)
 
-<b>Food Description Segmentation</b> - Devised an approach to apply NLP techniques to segment food descriptions and extract pertinent features, including food items and preparation methods, enhancing data accuracy and usability.
+![Comparision](/assets/img/project_images/Wildfire_Prediction_Comparision.png)
 
-[GitHub](https://github.com/sulaimangm/AIFoodClassification)
+<h4>Conclusion</h4>
+
+The initial self-trained model was showing signs of overfitting and high variance, which could be addressed with regularization techniques. The confusion matrix revealed an issue of class imbalance in the test set, leading to lower accuracy. In contrast, pre-trained models, especially VGG19, performed well on the test set with high accuracy and low mean squared error, indicating good performance. However, further experimentation with hyperparameters, different architectures, and data augmentation could lead to even better results. Ultimately, the choice of model and approach would depend on the specific problem and dataset being analysed.
+
+[GitHub](https://github.com/sulaimangm/DeepLearning)
