@@ -48,6 +48,6 @@ This project presents the working of an automated car wash system that uses sens
 
 <h4>Working</h4>
 
-<iframe width="560" height="315" src="/assets/img/project_images/Car_Wash_System_Video.png" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/assets/img/project_images/Car_Wash_System_Video.mp4" frameborder="0" allowfullscreen></iframe>
 
 With this prototype, we explored an existing version of the Automated Car Wash System using the fundamentals of Electronics, IOT and Deep Learning. Various industries have implemented systems that further automate and dynamically control specific phases in the process such as washing and drying. Our system, having immense upgrade potential and numerous real-world use-cases, can improve businesses of organizations and contribute effectively to this rapidly growing technological world.
