@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automated Car Wash System
-thumbnail-img: /assets/img/project_images/Expense_Tracker_Thumbnail.png
+thumbnail-img: /assets/img/project_images/Car_Wash_System_Thumbnail.png
 tags: [Python, Internet of Things, Blynk]
 ---
 
