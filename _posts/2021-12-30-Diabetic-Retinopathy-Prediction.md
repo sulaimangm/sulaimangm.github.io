@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diabetic Retinopathy Prediction
-thumbnail-img: /assets/img/project_images/Diabetic_Retinopathy_Thumbnail.jpeg
+thumbnail-img: /assets/img/project_images/Diabetic_Retinopathy_Thumbnail.jpg
 tags: [Backward Search, PCA, LDA, KNN, SVM]
 ---
 
